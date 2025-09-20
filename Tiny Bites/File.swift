@@ -1,4 +1,12 @@
- Recipe(
+//
+//  File.swift
+//  Tiny Bites
+//
+//  Created by Sinai on 8/25/25.
+//
+
+
+ /* Recipe(
         title: "Apple Compote",
         ageGroup: "6+ months",
         type: "Breakfast",
@@ -90,7 +98,9 @@
         ],
         image: "pumpkin_puree",
         allergens: []
-    ),
+    ), listo esta parte
+  
+  
     Recipe(
         title: "Pear and Oat Mash",
         ageGroup: "6+ months",
@@ -196,7 +206,12 @@
             ],
             image: "banana_bites",
             allergens: []
-        ),
+        ), 2 listo
+  
+  
+  
+  
+  
         Recipe(
             title: "Carrot Sticks",
             ageGroup: "8+ months",
@@ -282,7 +297,11 @@
             ],
             image: "blueberry_yogurt",
             allergens: ["Dairy"]
-        ),
+        ), 3listo
+  
+  
+  
+  
         Recipe(
             title: "Oat Cookies",
             ageGroup: "10+ months",
@@ -418,7 +437,11 @@
             ],
             image: "quinoa_veggies",
             allergens: []
-        ),
+        ), listo
+  
+  
+  
+  
         Recipe(
             title: "Mini Pasta with Tomato",
             ageGroup: "10+ months",
@@ -571,7 +594,11 @@
             ],
             image: "fish_potato_mash",
             allergens: ["Fish"]
-        ),
+        ),listo
+  
+  
+  
+  
         Recipe(
             title: "Vegetable Risotto",
             ageGroup: "12+ months",
@@ -631,7 +658,10 @@
             ],
             image: "turkey_vegetable_puree",
             allergens: []
-        ),
+        ), ;isto
+  
+  
+  
         Recipe(
             title: "Quinoa and Veggie Mash",
             ageGroup: "12+ months",
@@ -707,10 +737,10 @@
             image: "pumpkin_turkey_mash",
             allergens: []
         )
-    ]
+    ] listo
 
-    
+    *\
 
    
 
-
+  */
