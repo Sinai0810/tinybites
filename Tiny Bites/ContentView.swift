@@ -95,6 +95,8 @@ struct ContentView: View {
                             .font(.footnote)
                             .foregroundColor(.blue)
                     }
+                    
+                    
                 }
                 .padding(.horizontal, 40)
                 .frame(maxWidth: .infinity, alignment: .leading)
