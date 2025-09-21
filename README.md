@@ -37,8 +37,8 @@ The app fulfills its **MVP (Minimum Viable Product)**:
 ---
 
 ## 📸 Screenshots
-(https://raw.githubusercontent.com/Sinai0810/tinybites/main/Tiny%20Bites%20-2.jpg)
-https://raw.githubusercontent.com/Sinai0810/tinybites/main/Tiny%20Bites%20.jpg)
+([https://raw.githubusercontent.com/Sinai0810/tinybites/main/Tiny%20Bites%20-2.jpg](https://github.com/Sinai0810/tinybites/blob/main/Tiny%20Bites%20-2.svg))
+([https://raw.githubusercontent.com/Sinai0810/tinybites/main/Tiny%20Bites%20.jpg](https://github.com/Sinai0810/tinybites/blob/main/Tiny%20Bites%20.svg))
 
 
 
